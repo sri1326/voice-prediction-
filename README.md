@@ -14,4 +14,5 @@ Only the following 6 features out of 20 were considered:
 4. meanfun
 5. IQR
 6. median
+
 The dataset contained 3168 records, 2376 of which were used as training set and the rest as test set.
