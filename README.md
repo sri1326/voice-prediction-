@@ -8,7 +8,6 @@ Contents of repo:
 genderByVoice.py is the file which implements the classifier.
 voice.csv is the dataset.
 Only the following 6 features out of 20 were considered:
-
 meanfreq
 sd
 centroid
